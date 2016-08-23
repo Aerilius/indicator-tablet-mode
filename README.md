@@ -5,9 +5,9 @@ This is a simple and device-agnostic indicator. It should work on normal Ubuntu-
 
  - ![Laptop](https://cdn.rawgit.com/Aerilius/indicator-tablet-mode/master/indicator-tablet-mode/light/indicator-tablet-mode-laptop.svg?raw=true) **Laptop mode**: physical keyboard, touchpad
  
- - ![Tablet](https://cdn.rawgit.com/Aerilius/indicator-tablet-mode/master/indicator-tablet-mode/light/indicator-tablet-mode-tablet.svg?raw=true) **Tablet mode**: onscreen keyboard, physical keyboard and touchpad disabled
+ - ![Tablet](https://cdn.rawgit.com/Aerilius/indicator-tablet-mode/master/indicator-tablet-mode/light/indicator-tablet-mode-tablet.svg?raw=true) **Tablet mode**: onscreen keyboard; physical keyboard and touchpad disabled
  
- - **Rotations** (touch input and display)
+ - **Rotations** (both touch input and display output)
  
 ### Installation
 Unzip to `~/.local/bin/`  
